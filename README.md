@@ -1,2 +1,2 @@
-rtfmjs
+The RTF Manual of JavaScript Style
 ======
